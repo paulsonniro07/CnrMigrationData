@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CnrMigrationData", "CnrMigrationData.csproj", "{15713EE5-BED4-480E-8FBF-285089747F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15713EE5-BED4-480E-8FBF-285089747F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15713EE5-BED4-480E-8FBF-285089747F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15713EE5-BED4-480E-8FBF-285089747F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15713EE5-BED4-480E-8FBF-285089747F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10E10685-2BCB-41FC-8E45-3D87E1231901}
+	EndGlobalSection
+EndGlobal

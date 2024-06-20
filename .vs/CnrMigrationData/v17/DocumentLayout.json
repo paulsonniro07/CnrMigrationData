@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Project\\CnrMigrationData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|f:\\project\\cnrmigrationdata\\addupdateproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|solutionrelative:addupdateproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|f:\\project\\cnrmigrationdata\\addupdatevendorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|solutionrelative:addupdatevendorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|f:\\project\\cnrmigrationdata\\addupdatevendorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|solutionrelative:addupdatevendorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|f:\\project\\cnrmigrationdata\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|solutionrelative:models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|F:\\Project\\CnrMigrationData\\addupdateproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|solutionrelative:addupdateproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|F:\\Project\\CnrMigrationData\\batchimportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|solutionrelative:batchimportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|F:\\Project\\CnrMigrationData\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|solutionrelative:models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|F:\\Project\\CnrMigrationData\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15713EE5-BED4-480E-8FBF-285089747F89}|CnrMigrationData.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddUpdateVendorForm.cs",
+              "DocumentMoniker": "F:\\Project\\CnrMigrationData\\AddUpdateVendorForm.cs",
+              "RelativeDocumentMoniker": "AddUpdateVendorForm.cs",
+              "ToolTip": "F:\\Project\\CnrMigrationData\\AddUpdateVendorForm.cs",
+              "RelativeToolTip": "AddUpdateVendorForm.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAtwHsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:35:48.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddUpdateProductForm.cs",
+              "DocumentMoniker": "F:\\Project\\CnrMigrationData\\AddUpdateProductForm.cs",
+              "RelativeDocumentMoniker": "AddUpdateProductForm.cs",
+              "ToolTip": "F:\\Project\\CnrMigrationData\\AddUpdateProductForm.cs",
+              "RelativeToolTip": "AddUpdateProductForm.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAUwKYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:35:43.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddUpdateVendorForm.cs [Design]",
+              "DocumentMoniker": "F:\\Project\\CnrMigrationData\\AddUpdateVendorForm.cs",
+              "RelativeDocumentMoniker": "AddUpdateVendorForm.cs",
+              "ToolTip": "F:\\Project\\CnrMigrationData\\AddUpdateVendorForm.cs [Design]",
+              "RelativeToolTip": "AddUpdateVendorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:33:24.447Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "F:\\Project\\CnrMigrationData\\Models\\DbContext.cs",
+              "RelativeDocumentMoniker": "Models\\DbContext.cs",
+              "ToolTip": "F:\\Project\\CnrMigrationData\\Models\\DbContext.cs",
+              "RelativeToolTip": "Models\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:43:07.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BatchImportForm.cs",
+              "DocumentMoniker": "F:\\Project\\CnrMigrationData\\BatchImportForm.cs",
+              "RelativeDocumentMoniker": "BatchImportForm.cs",
+              "ToolTip": "F:\\Project\\CnrMigrationData\\BatchImportForm.cs",
+              "RelativeToolTip": "BatchImportForm.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:16:50.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "F:\\Project\\CnrMigrationData\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "Models\\Vendor.cs",
+              "ToolTip": "F:\\Project\\CnrMigrationData\\Models\\Vendor.cs",
+              "RelativeToolTip": "Models\\Vendor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:13:58.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Project\\CnrMigrationData\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "F:\\Project\\CnrMigrationData\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:01:06.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddUpdateProductForm.cs [Design]",
+              "DocumentMoniker": "F:\\Project\\CnrMigrationData\\AddUpdateProductForm.cs",
+              "RelativeDocumentMoniker": "AddUpdateProductForm.cs",
+              "ToolTip": "F:\\Project\\CnrMigrationData\\AddUpdateProductForm.cs [Design]",
+              "RelativeToolTip": "AddUpdateProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:58:46.678Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
