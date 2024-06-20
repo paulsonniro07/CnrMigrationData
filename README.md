@@ -15,7 +15,7 @@
 
 - .NET Framework 4.8 or later
 - Visual Studio 2019 or later
-- 
+  
 **Usage**
 Select the import type: Choose between importing products or vendors.
 Import CSV file: Browse and select the CSV file to import.
